@@ -1,0 +1,3 @@
+rootProject.name = 'jobvola_1195'
+
+include ':app'
